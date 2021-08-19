@@ -1,6 +1,9 @@
+Supplemental repository for the paper
+[Improving Readability of Scratch Programs with Search-based Refactoring](https://arxiv.org/abs/2108.07114)
+containing all data and software to replicate the experiments.
+
 # Experiment Execution
 
-This folder provides all necessary tooling to execute the experiments.
 The following assumes that you have a terminal window open with a prompt
 in the directory of this file.
 
