@@ -1,0 +1,6 @@
+.idea/
+venv/
+litterbox-runs/
+run-*.sh
+run_all_experiments.sh
+LitterBox.version
