@@ -2,6 +2,24 @@ Supplemental repository for the paper
 [Improving Readability of Scratch Programs with Search-based Refactoring](https://arxiv.org/abs/2108.07114)
 containing all data and software to replicate the experiments.
 
+```
+@inproceedings{ImprovingReadabilityScratch,
+  author    = {Felix Adler and
+               Gordon Fraser and
+               Eva Gründinger and
+               Nina Körber and
+               Simon Labrenz and
+               Jonas Lerchenberger and
+               Stephan Lukasczyk and
+               Sebastian Schweikl},
+  title     = {Improving Readability of Scratch Programs with Search-based Refactoring},
+  booktitle = {{21st {IEEE} International Working Conference on Source Code Analysis
+               and Manipulation, {SCAM} 2021}},
+  publisher = {{IEEE}},
+  year      = {2021}
+}
+```
+
 # Experiment Execution
 
 The following assumes that you have a terminal window open with a prompt
